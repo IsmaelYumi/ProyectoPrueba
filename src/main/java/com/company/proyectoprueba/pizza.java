@@ -9,5 +9,5 @@ package com.company.proyectoprueba;
  * @author Yumi
  */
 public class pizza {
-    
+    String NOMBRE;
 }
